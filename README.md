@@ -126,12 +126,18 @@ ERP systems like Tally are built for bookkeeping, not analysis. Answering everyd
 
 ---
 
+
 ## 📈 Business Impact
 
-- **Faster vendor and material lookup** than manual spreadsheet filtering
-- **Clearer supplier visibility** — active vs. inactive vs. newly onboarded vendors
-- **Earlier visibility into sourcing risk** — single-source materials surfaced automatically
-- **A starting point for pricing conversations** — vendor-to-vendor price variance visible without manual cross-tabulation
+- **Faster vendor and material lookup** — replaces manual spreadsheet filtering with instant search.
+- **Clearer supplier visibility** — active, inactive, and newly onboarded vendors are visible at a glance, every financial year.
+- **Earlier warning on sourcing risk** — single-source materials are surfaced automatically, instead of being discovered only after a supplier fails to deliver.
+- **Stronger footing in vendor negotiations** — seeing exactly how much two vendors charge for the same material, side by side, turns a price conversation from guesswork into a documented ask.
+- **Less dependency on institutional memory** — "who do we buy this from" no longer lives only in one person's head; anyone can look it up.
+- **Faster onboarding for new procurement staff** — new team members can explore vendor and material history themselves instead of being walked through raw ERP exports.
+- **Quicker management and audit review** — purchase history by vendor, material, or financial year is already organized, instead of being reconstructed by hand for every review.
+- **Supports smarter vendor consolidation decisions** — multi-vendor materials with wide price variance are flagged for review rather than left to be noticed by chance.
+- **Reusable, not one-off** — once built, refreshing the dashboard with a new Tally export is a data swap, not a rebuild.
 
 *(No specific time-saved or cost-saved figures are claimed — these haven't been formally measured.)*
 
